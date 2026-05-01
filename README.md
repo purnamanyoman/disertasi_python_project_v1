@@ -31,3 +31,11 @@ disertasi_python_project_v1/
 pip install -r requirements.txt
 python src/main.py --input data/raw/dataset_sample.csv --key title
 ```
+
+## Menjalankan di Google Colab
+Buka notebook berikut:
+
+https://colab.research.google.com/github/purnamanyoman/disertasi_python_project_v1/blob/main/notebooks/colab_runner.ipynb
+
+Notebook tersebut sudah berisi langkah untuk clone repository, install dependency,
+menjalankan dataset contoh, upload dataset sendiri, dan download hasil eksperimen.
